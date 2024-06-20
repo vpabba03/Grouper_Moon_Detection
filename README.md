@@ -2,7 +2,7 @@
 
 ## Original Model
 Link to the original model [code](https://github.com/vpabba03/Grouper_Moon_Detection/tree/main/original_model)
-- Trained using Tensorflow V1, so weights cannot be updated currently due to being in a frozen weights set.
+- Trained using Tensorflow V1.
 
 ## WildMe Model
 Link to the WildMe model [testing](https://github.com/vpabba03/Grouper_Moon_Detection/tree/main/wildme_model)
