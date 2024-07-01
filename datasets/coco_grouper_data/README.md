@@ -1,4 +1,4 @@
 ### Vishwak_Frames_06_14_2023
-- Split Frames and performed annotations
+- Date Completed: 06/14/2023
 - 160 still frame images
 - Annotator: Vishwak Pabba
