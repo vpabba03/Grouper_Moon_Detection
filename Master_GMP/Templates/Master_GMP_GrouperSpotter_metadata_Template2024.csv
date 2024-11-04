@@ -1,0 +1,5 @@
+IndexID,DateBulkImport,SubmitterName,Original_Image_Path,Video_Path,New_Image_Path,Length_Method,Tag_Color,Tag_Side,Color_Phase,Acoustic_TagNo,Acoustic_Tag_Date,Underwater_Topside,VideoID,ImageID,Year,Month,Day,Hour,Minutes,DecimalLatitude,DecimalLongitude,LocationDescription,Country,LocationID,Genus,Species,IndividualIDGrouperSpotter,IndividualNickname,Sex,VideoComments,ImageComments,Encounter.submitter.emailAddress,PhotographerFullName,PhotographerEmail,Fish_Length,Distinguishing Features,LivingStatus,Lifestage,FishDepth,Behavior,TissueSampleID,Encounter.mediaAsset0.keywords,Encounter.mediaAsset1.keywords
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fields in Yellow are in the Bulk Import Metadata Sheet. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
